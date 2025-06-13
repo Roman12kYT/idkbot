@@ -1,5 +1,4 @@
 {
-  "prefix": "!",
-  "modLogChannelId": "123456789012345678",
-  "incidentLimit": 10
+    "version": "1.0",
+    "punishThreshold": 5
 }
